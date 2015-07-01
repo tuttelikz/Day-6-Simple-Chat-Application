@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FriendListViewController.h
 //  day6
 //
 //  Created by Student on 25.06.15.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface FriendListViewController : UIViewController
 
 @end
-
